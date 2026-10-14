@@ -5,7 +5,7 @@ A grid-based spatial index written in plain Python, with no indexing libraries, 
 Institute of Technology campus. Every indexed query is checked against a brute-force scan, and
 both always return the same result.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maximofox338/spatial-indexing/blob/main/spatial_indexing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maximofox338/Spatial-Indexing/blob/main/spatial_indexing.ipynb)
 
 ![Grid index over the POIs](figures/grid_index.png)
 
